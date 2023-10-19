@@ -131,7 +131,7 @@ void main() {
 } */
 
 // Assignment 11
-import 'dart:math';
+/* import 'dart:math';
 
 void main() {
   final int passwordLength = 10;
@@ -144,4 +144,5 @@ void main() {
 
   final String password = generateRandomPassword(passwordLength);
   print('Generated Password: $password');
-}
+} */
+Map<String,int> a = {"ad":39,"sak":6565,"dsjak":39};
